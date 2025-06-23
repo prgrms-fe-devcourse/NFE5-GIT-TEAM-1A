@@ -28,3 +28,4 @@
 
 - `npm install`로 패키지를 설치한 후,
 - `npm run dev`로 실행합니다.
+이성균
